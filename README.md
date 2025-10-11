@@ -6,7 +6,7 @@
 
 🎯 **Aldrei Peralta**  
 📊 *Data Scientist | Statistician | Football & eSports Data Analyst | Educator*  
-📧 **contato@campoanalitico.com.br**  
+📧 **aldreiperalta16@gmail.com**  
 📍 **Belém, Brasil**  
 
 
@@ -28,7 +28,9 @@
 | 3º | ![linear](https://img.shields.io/badge/Álgebra_Linear_para_Estatística-60h-green) ![db](https://img.shields.io/badge/Banco_de_Dados-60h-orange) ![prob](https://img.shields.io/badge/Cálculo_das_Probabilidades_II-90h-red) ![calc](https://img.shields.io/badge/Cálculo_para_Estatística_II-60h-purple) ![viz](https://img.shields.io/badge/Visualização_de_Dados_Aplicada-60h-blue) | 330h |
 | 4º | ![compstat](https://img.shields.io/badge/Estatística_Computacional-60h-green) ![inference](https://img.shields.io/badge/Inferência_Estatística_I-90h-red) ![stoch](https://img.shields.io/badge/Processos_Estocásticos-60h-purple) ![calc](https://img.shields.io/badge/Tópicos_de_Cálculo-60h-orange) ![extension](https://img.shields.io/badge/Atividade_de_Extensão_III-60h-lightgrey) | 330h |
 | 5º | ![regression](https://img.shields.io/badge/Análise_de_Regressão_e_Correlação-90h-blue) ![nonparam](https://img.shields.io/badge/Estatística_Não-Paramétrica-60h-green) ![bayes](https://img.shields.io/badge/Inferência_Bayesiana-60h-red) ![doe](https://img.shields.io/badge/Planejamento_de_Experimentos_I-60h-purple) ![sampling](https://img.shields.io/badge/Técnicas_de_Amostragem-90h-orange) | 360h |
-| 6º | ![timeseries](https://img.shields.io/badge/Análise_de_Séries_Temporais-90h-blue) ![multivar](https://img.shields.io/badge/Análise_Multivariada_I-60h-green) ![ml](https://img.shields.io/badge/Aprendizado_Supervisionado-60h-red) ![glm](https://img.shields.io/badge/Modelos_Lineares_Generalizados-60h-purple) ![doe](https://img.shields.io/badge/Planejamento_de_Experimentos_II-60h-orange) | 330h |
+| 6º | ![timeseries](https://img.shields.io/badge/Análise_de_Séries_Temporais-90h-blue) ![multivar](https://img.shields.io/badge/Análise_Multivariada_I-60h-green) ![Aprendizado Não-Supervisionado](https://img.shields.io/badge/Aprendizado_Não-Supervisionado-60h-green)
+![Aprendizado Não-Supervisionado](https://img.shields.io/badge/Aprendizado_Não-Supervisionado-60h-green)
+ ![glm](https://img.shields.io/badge/Modelos_Lineares_Generalizados-60h-purple) ![doe](https://img.shields.io/badge/Planejamento_de_Experimentos_II-60h-orange) | 330h |
 | 7º | ![multivar](https://img.shields.io/badge/Análise_Multivariada_II-60h-blue) ![mlunsupervised](https://img.shields.io/badge/Aprendizado_Não-Supervisionado-60h-green) ![biostat](https://img.shields.io/badge/Bioestatística-60h-red) ![qc](https://img.shields.io/badge/Controle_Estatístico_de_Qualidade-60h-purple) ![tri](https://img.shields.io/badge/Teoria_da_Resposta_ao_Item-60h-orange) ![internship](https://img.shields.io/badge/Estágio_Supervisionado-300h-lightgrey) | 600h |
 | 8º | ![extension](https://img.shields.io/badge/Atividade_de_Extensão_IV-60h-lightgrey) ![tcc](https://img.shields.io/badge/Trabalho_de_Curso-60h-blue) ![flex](https://img.shields.io/badge/Componentes_Curriculares_Flexibilizados-120h-green) ![complementary](https://img.shields.io/badge/Atividades_Complementares-90h-orange) | 330h |
 
@@ -113,7 +115,7 @@
 📩 **Email:** [contato@campoanalitico.com.br](mailto:contato@campoanalitico.com.br)  
 🐦 **Twitter/X:** [@campoanalitico](https://twitter.com/campoanalitico)  
 💼 **LinkedIn:** [Aldrei Peralta](https://www.linkedin.com/in/aldreiperalta)  
-🌐 **Website:** [www.campoanalitico.com.br](https://www.campoanalitico.com.br)  
+🌐 **Website:** [www.campoanalitico.com.br](https://linktr.ee/campoanalitico.com)  
 
 ---
 
