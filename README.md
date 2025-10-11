@@ -6,7 +6,7 @@
 
 🎯 **Aldrei Peralta**  
 📊 *Data Scientist | Statistician | Football & eSports Data Analyst | Educator*  
-📧 **contato@campoanalitico.com.br**  
+📧 **contatocampoanalitico@gmail.com**  
 📍 **Belém, Brasil**  
 
 ---
@@ -65,7 +65,7 @@
 📩 **Email:** [contato@campoanalitico.com.br](mailto:contato@campoanalitico.com.br)  
 🐦 **Twitter/X:** [@campoanalitico](https://twitter.com/campoanalitico)  
 💼 **LinkedIn:** [Aldrei Peralta](https://www.linkedin.com/in/aldreiperalta)  
-🌐 **Website:** [www.campoanalitico.com.br](https://www.campoanalitico.com.br)  
+🌐 **Website:** [www.campoanalitico.com.br](https://linktr.ee/campoanalitico.com)  
 
 ---
 
