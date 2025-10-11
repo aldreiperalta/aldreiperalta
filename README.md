@@ -14,7 +14,6 @@
 
 ### 🎓 Formação Acadêmica / Academic Background
 **Bacharelado em Estatística – UFPS, Belém (Presencial)**  
-📅 Entrada: 2025 – 2º Período  
 ⏱️ Carga Horária Total: 3000h  
 
 ---
