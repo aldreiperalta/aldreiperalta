@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**aldreiperalta/aldreiperalta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 🎯 **Aldrei Peralta**  
 📊 *Data Scientist | Statistician | Football & eSports Data Analyst | Educator*  
 📧 **aldreiperalta16@gmail.com**  
@@ -16,66 +12,49 @@
 📅 Entrada: 2025 – 2º Período  
 ⏱️ Carga Horária Total: 3000h  
 
-#### Grade Curricular / Curriculum Table
+---
+
+### 📚 Grade Curricular / Curriculum Table
 
 | Período | Disciplinas | CH |
 |---------|-------------|----|
-| 1º | Análise Exploratória de Dados, Atividade de Extensão I, Introdução à Ciência dos Computadores, Matemática Básica | 330h |
-| 2º | Atividade de Extensão II, Cálculo das Probabilidades I, Cálculo para Estatística I, Geometria Analítica, Programação de Computadores I | 390h |
-| 3º | Álgebra Linear para Estatística, Banco de Dados, Cálculo das Probabilidades II, Cálculo para Estatística II, Visualização de Dados Aplicada | 330h |
-| 4º | Estatística Computacional, Inferência Estatística I, Processos Estocásticos, Tópicos de Cálculo, Atividade de Extensão III | 330h |
-| 5º | Análise de Regressão e Correlação, Estatística Não-Paramétrica, Inferência Bayesiana, Planejamento de Experimentos I, Técnicas de Amostragem | 360h |
-| 6º | Análise de Séries Temporais, Análise Multivariada I, Aprendizado Supervisionado, Modelos Lineares Generalizados, Planejamento de Experimentos II | 330h |
-| 7º | Análise Multivariada II, Aprendizado Não-Supervisionado, Bioestatística, Controle Estatístico de Qualidade, Teoria da Resposta ao Item, Estágio Supervisionado | 600h |
-| 8º | Atividade de Extensão IV, Trabalho de Curso, Componentes Curriculares Flexibilizados, Atividades Complementares | 330h |
+| 1º | ![data](https://img.shields.io/badge/Análise_Exploratória_de_Dados-90h-blue) ![extension](https://img.shields.io/badge/Atividade_de_Extensão_I-90h-lightgrey) ![cs](https://img.shields.io/badge/Introdução_à_Ciência_dos_Computadores-60h-green) ![math](https://img.shields.io/badge/Matemática_Básica-90h-orange) | 330h |
+| 2º | ![extension](https://img.shields.io/badge/Atividade_de_Extensão_II-90h-lightgrey) ![prob](https://img.shields.io/badge/Cálculo_das_Probabilidades_I-90h-red) ![calc](https://img.shields.io/badge/Cálculo_para_Estatística_I-90h-purple) ![geo](https://img.shields.io/badge/Geometria_Analítica-60h-yellow) ![program](https://img.shields.io/badge/Programação_de_Computadores_I-60h-blue) | 390h |
+| 3º | ![linear](https://img.shields.io/badge/Álgebra_Linear_para_Estatística-60h-green) ![db](https://img.shields.io/badge/Banco_de_Dados-60h-orange) ![prob](https://img.shields.io/badge/Cálculo_das_Probabilidades_II-90h-red) ![calc](https://img.shields.io/badge/Cálculo_para_Estatística_II-60h-purple) ![viz](https://img.shields.io/badge/Visualização_de_Dados_Aplicada-60h-blue) | 330h |
+| 4º | ![compstat](https://img.shields.io/badge/Estatística_Computacional-60h-green) ![inference](https://img.shields.io/badge/Inferência_Estatística_I-90h-red) ![stoch](https://img.shields.io/badge/Processos_Estocásticos-60h-purple) ![calc](https://img.shields.io/badge/Tópicos_de_Cálculo-60h-orange) ![extension](https://img.shields.io/badge/Atividade_de_Extensão_III-60h-lightgrey) | 330h |
+| 5º | ![regression](https://img.shields.io/badge/Análise_de_Regressão_e_Correlação-90h-blue) ![nonparam](https://img.shields.io/badge/Estatística_Não-Paramétrica-60h-green) ![bayes](https://img.shields.io/badge/Inferência_Bayesiana-60h-red) ![doe](https://img.shields.io/badge/Planejamento_de_Experimentos_I-60h-purple) ![sampling](https://img.shields.io/badge/Técnicas_de_Amostragem-90h-orange) | 360h |
+| 6º | ![timeseries](https://img.shields.io/badge/Análise_de_Séries_Temporais-90h-blue) ![multivar](https://img.shields.io/badge/Análise_Multivariada_I-60h-green) ![ml](https://img.shields.io/badge/Aprendizado_Supervisionado-60h-red) ![glm](https://img.shields.io/badge/Modelos_Lineares_Generalizados-60h-purple) ![doe](https://img.shields.io/badge/Planejamento_de_Experimentos_II-60h-orange) | 330h |
+| 7º | ![multivar](https://img.shields.io/badge/Análise_Multivariada_II-60h-blue) ![mlunsupervised](https://img.shields.io/badge/Aprendizado_Não-Supervisionado-60h-green) ![biostat](https://img.shields.io/badge/Bioestatística-60h-red) ![qc](https://img.shields.io/badge/Controle_Estatístico_de_Qualidade-60h-purple) ![tri](https://img.shields.io/badge/Teoria_da_Resposta_ao_Item-60h-orange) ![internship](https://img.shields.io/badge/Estágio_Supervisionado-300h-lightgrey) | 600h |
+| 8º | ![extension](https://img.shields.io/badge/Atividade_de_Extensão_IV-60h-lightgrey) ![tcc](https://img.shields.io/badge/Trabalho_de_Curso-60h-blue) ![flex](https://img.shields.io/badge/Componentes_Curriculares_Flexibilizados-120h-green) ![complementary](https://img.shields.io/badge/Atividades_Complementares-90h-orange) | 330h |
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Pacotes R
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![StatsBomb](https://img.shields.io/badge/StatsBomb-FF6F00?style=flat-square&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
-### 🧠 R Packages / Pacotes R
 ![tidyverse](https://img.shields.io/badge/tidyverse-ff61a6?style=flat-square&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-ef476f?style=flat-square&logo=r&logoColor=white)
 ![ggsoccer](https://img.shields.io/badge/ggsoccer-06d6a0?style=flat-square&logo=r&logoColor=white)
 ![gridExtra](https://img.shields.io/badge/gridExtra-118ab2?style=flat-square&logo=r&logoColor=white)
 ![gridtext](https://img.shields.io/badge/gridtext-f9c74f?style=flat-square&logo=r&logoColor=white)
 ![showtext](https://img.shields.io/badge/showtext-f9844a?style=flat-square&logo=r&logoColor=white)
-![scales](https://img.shields.io/badge/scales-90be6d?style=flat-square&logo=r&logoColor=white)
 ![cowplot](https://img.shields.io/badge/cowplot-577590?style=flat-square&logo=r&logoColor=white)
 ![patchwork](https://img.shields.io/badge/patchwork-f94144?style=flat-square&logo=r&logoColor=white)
 ![worldfootballR](https://img.shields.io/badge/worldfootballR-43aa8b?style=flat-square&logo=r&logoColor=white)
 ![lubridate](https://img.shields.io/badge/lubridate-f3722c?style=flat-square&logo=r&logoColor=white)
 ![janitor](https://img.shields.io/badge/janitor-f9c74f?style=flat-square&logo=r&logoColor=white)
-![rvest](https://img.shields.io/badge/rvest-90be6d?style=flat-square&logo=r&logoColor=white)
-![httr](https://img.shields.io/badge/httr-577590?style=flat-square&logo=r&logoColor=white)
-![jsonlite](https://img.shields.io/badge/jsonlite-43aa8b?style=flat-square&logo=r&logoColor=white)
-![shiny](https://img.shields.io/badge/shiny-f94144?style=flat-square&logo=r&logoColor=white)
-![DT](https://img.shields.io/badge/DT-ffbe0b?style=flat-square&logo=r&logoColor=white)
-![readxl](https://img.shields.io/badge/readxl-06d6a0?style=flat-square&logo=r&logoColor=white)
-![openxlsx](https://img.shields.io/badge/openxlsx-ff61a6?style=flat-square&logo=r&logoColor=white)
-![magrittr](https://img.shields.io/badge/magrittr-f9844a?style=flat-square&logo=r&logoColor=white)
-![purrr](https://img.shields.io/badge/purrr-ef476f?style=flat-square&logo=r&logoColor=white)
 
 ---
 
-### 🔭 I’m currently working on / Atualmente trabalhando em
+### 🔭 Projetos
 #### ⚽ **Campo Analítico**
 - Consultoria em **análise de dados aplicada ao futebol**  
 - Relatórios técnicos, **mapas de ações táticas** e **dashboards de scouting**  
-- Cursos e mentorias de **R aplicado à análise esportiva**
 
-#### 💻 **Projetos Golang em Scouting**
+#### 💻 **Golang Scouting & Performance**
 - Automação de **coleta e processamento de dados de partidas**  
 - Avaliação de **performance individual e métricas táticas**  
-- Dashboards interativos para **scouting de jogadores**
 
 #### 🎮 **Radar Automático CS2**
 - Mapeamento espacial de ações e métricas em **Counter-Strike 2**  
@@ -83,37 +62,36 @@
 
 ---
 
-### 🌱 I’m currently learning / Atualmente aprendendo
-- **Modelagem estatística avançada** aplicada a esportes coletivos  
-- **Golang para análise de dados e automação de scouting**  
-- Visualizações avançadas **estilo Opta Analyst** com `ggplot2`, `ggsoccer` e `ggtext`  
+### 🌱 Atualmente aprendendo
+- Modelagem estatística avançada em esportes coletivos  
+- Golang para automação de scouting  
+- Visualizações avançadas estilo Opta Analyst com R  
 
 ---
 
-### 👯 I’m looking to collaborate on / Busco colaborar em
+### 👯 Busco colaborar em
 - Projetos de **scouting e análise de desempenho**  
-- **Visual storytelling** com dashboards e relatórios interativos  
-- Desenvolvimento de **modelos preditivos e métricas avançadas**  
-- Iniciativas de **educação estatística aplicada**  
+- Dashboards interativos e storytelling com dados  
+- Desenvolvimento de métricas e modelos preditivos  
 
 ---
 
-### 💬 Ask me about / Pergunte-me sobre
-- **Análise de desempenho (xG, xA, xT)**  
-- **Scouting e avaliação tática de jogadores**  
-- **Dashboards e storytelling visual**  
-- **R e Golang aplicados à análise esportiva**  
+### 💬 Pergunte-me sobre
+- Análise de desempenho (xG, xA, xT)  
+- Scouting e avaliação tática de jogadores  
+- Dashboards e storytelling visual  
+- R e Golang aplicados à análise esportiva  
 
 ---
 
-### 📫 How to reach me / Contato
-📩 **Email:** [contato@campoanalitico.com.br](mailto:contatocampoanalitioc@gmail.com)  
-🐦 **Twitter/X:** [@campoanalitico](https://twitter.com/campoanalitico)  
-💼 **LinkedIn:** [Aldrei Peralta](https://www.linkedin.com/in/aldreiperalta)  
-🌐 **Website:** [www.campoanalitico.com.br](https://linktr.ee/campoanalitico.com)  
+### 📫 Contato
+📩 [contato@campoanalitico.com.br](mailto:contato@campoanalitico.com.br)  
+🐦 [@campoanalitico](https://twitter.com/campoanalitico)  
+💼 [LinkedIn](https://www.linkedin.com/in/aldreiperalta)  
+🌐 [www.campoanalitico.com.br](https://linktr.ee/campoanalitico.com)  
 
 ---
 
-### ⚡ Fun fact / Curiosidade
+### ⚡ Curiosidade
 Sou **Estatístico (BSc)** e acredito que dados são o elo entre **competição e compreensão** — seja no gramado ou em eSports.  
 Busco unir **análise técnica**, **visualização estética** e **narrativa estatística** para transformar números em **decisões estratégicas**.
