@@ -29,7 +29,7 @@
 
 ---
 
-### 🎓 Academic Background (Estatística - UFPS)
+### 🎓 Academic bachelor (Estatística - UFPA)
 
 | Período | Disciplinas Foco | CH |
 |:---:|:---|:---:|
