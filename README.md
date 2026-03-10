@@ -5,16 +5,10 @@
 <img src="https://img.shields.io/badge/Football%20Analyst-Campo%20Analítico-green?style=flat-square" />
 </p>
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img  src="https://github-readme-stats.vercel.app/api?username=aldreiperalta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldreiperalta&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
+### 📊 My GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aldreiperalta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aldreiperalta&layout=compact&theme=radical&langs_count=6&hide=html,css)
 
 ---
 
@@ -51,8 +45,8 @@
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/aldreiperalta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:contato@campoanalitico.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aldreiperalta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:contato@campoanalitico.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
