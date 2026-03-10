@@ -1,14 +1,16 @@
 # Hi there 👋 I'm Aldrei Peralta
 
 <p align="left">
-<img src="https://img.shields.io/badge/Data%20Scientist-Statistician-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Football%20Analyst-Campo%20Analítico-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Scientist-Statistician-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Football%20Analyst-Campo%20Analítico-green?style=for-the-badge" />
 </p>
 
 ### 📊 My GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=aldreiperalta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aldreiperalta&layout=compact&theme=radical&langs_count=6&hide=html,css)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldreiperalta&show_icons=true&theme=radical&count_private=true&GREETING=HELLO" alt="Aldrei Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldreiperalta&layout=compact&theme=radical&hide=html,css&GREETING=HELLO" alt="Aldrei Languages" height="170" />
+</p>
 
 ---
 
@@ -16,7 +18,7 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,go,java,spring,py,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=r,go,java,spring,py,postgres,docker,git&theme=dark" />
 </p>
 
 **Football Analytics & Tools**
@@ -37,9 +39,9 @@
 ---
 
 ### 🔭 Current Projects
-* ⚽ **Campo Analítico**: Consultoria técnica e scouting.
-* 🎮 **CS2 Radar**: Mapeamento espacial de ações e métricas.
-* 🌱 **Learning**: Java 21 e Visual Storytelling (Opta Style).
+* ⚽ **Campo Analítico**: Consultoria técnica e scouting profissional.
+* 💻 **Gopher & Data Scientist**: Automação de dados em tempo real com Go e R.
+* 🎮 **CS2 Radar**: Mapeamento espacial de ações e métricas de eSports.
 
 ---
 
