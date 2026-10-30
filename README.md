@@ -1,55 +1,61 @@
-# Hi there 👋 I'm Aldrei Peralta
+# Olá, eu sou o Aldrei Peralta 👋
+
+Estatístico pela UFPA, analista de futebol e desenvolvedor R & Go.
+Fundador do [Campo Analítico](https://campoanalitico.com.br/), onde ensino e aplico análise de dados no futebol.
 
 <p align="left">
-<img src="https://img.shields.io/badge/Data%20Scientist-Statistician-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Football%20Analyst-Campo%20Analítico-green?style=for-the-badge" />
-</p>
-
-### 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldreiperalta&show_icons=true&theme=radical&count_private=true&GREETING=HELLO" alt="Aldrei Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldreiperalta&layout=compact&theme=radical&hide=html,css&GREETING=HELLO" alt="Aldrei Languages" height="170" />
+  <img src="https://img.shields.io/badge/Estat%C3%ADstico-Data%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Football%20Analytics-Campo%20Anal%C3%ADtico-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔭 No que estou trabalhando
 
-**Languages & Frameworks**
+- ⚽ **[Campo Analítico](https://campoanalitico.com.br/)**: consultoria, scouting e educação em análise de futebol
+- 📊 **[futebol-analytics-outubro-2026](https://github.com/aldreiperalta/futebol-analytics-outubro-2026)**: scripts em R de scouting, redes de passe, pitch control, similaridade de jogadores e dashboards Shiny
+- 🎮 **[cs2](https://github.com/aldreiperalta/cs2)**: análise espacial e métricas de partidas de CS2
+- 💻 **[java-for-gophers](https://github.com/aldreiperalta/java-for-gophers)**: guia prático de Java 21 para quem vem de Go e R
+
+---
+
+### 🖼️ Alguns trabalhos
+
+<!-- Suba 3 imagens para o repo e troque os caminhos: rede de passes, pitch control, pizza de similaridade -->
+| Rede de passes | Pitch control | Similaridade |
+|:---:|:---:|:---:|
+| <img src="img/rede-passes.png" width="260" /> | <img src="img/pitch-control.png" width="260" /> | <img src="img/pizza-similares.png" width="260" /> |
+
+---
+
+### 🛠️ Ferramentas
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,go,java,spring,py,postgres,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=r,go,java,spring,py,git&theme=dark" />
 </p>
 
-**Football Analytics & Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/StatsBomb-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
-
-### 🎓 Academic bachelor (Estatística - UFPA)
-
-| Período | Disciplinas Foco | CH |
-|:---:|:---|:---:|
-| **1º - 4º** | Probabilidade, Cálculo e Banco de Dados | 1380h |
-| **5º - 8º** | Regressão, Inferência Bayesiana e ML | 1620h |
-
----
-
-### 🔭 Current Projects
-* ⚽ **Campo Analítico**: Consultoria técnica e scouting profissional.
-* 💻 **Gopher & Data Scientist**: Automação de dados em tempo real com Go e R.
-* 🎮 **CS2 Radar**: Mapeamento espacial de ações e métricas de eSports.
-
----
-
-### 📫 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/aldreiperalta"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:contato@campoanalitico.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/StatsBomb-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhoScored-0B6E4F?style=for-the-badge" />
 </p>
 
 ---
-*⚡ Fun fact: Acredito que a estética de um gráfico é tão importante quanto a precisão do seu p-valor.*
+
+### 🎓 Formação
+
+Estatística, UFPA · foco em regressão, inferência bayesiana e machine learning
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aldreiperalta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contato@campoanalitico.com.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/Aldreiperalta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/campoanalitico360"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+*⚡ Acredito que a estética de um gráfico é tão importante quanto a precisão do seu p-valor.*
