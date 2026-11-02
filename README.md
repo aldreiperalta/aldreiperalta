@@ -28,17 +28,14 @@
 |:--|:--|:--|
 | [**cs2**](https://github.com/aldreiperalta/cs2) | Análises de partidas de CS2: mapeamento espacial de ações e métricas para medir desempenho e corrigir erros. | R |
 | [**Ipea**](https://github.com/aldreiperalta/Ipea) | Visualização e análise de dados do Ipea (ex.: preços da gasolina por estado), inspirado no #30DayChartChallenge. | R |
-| [**aldrei-portfolio**](https://github.com/aldreiperalta/aldrei-portfolio) | Site de portfólio pessoal. | HTML |
 
 ### 📈 Visualizações em destaque
 
-<!-- Troque pelos caminhos reais das suas imagens (ex.: as de passes, pitch control, gasolina) -->
 <p align="center">
-  <img src="CAMINHO/rede-de-passes.png" width="30%" />
-  <img src="CAMINHO/pitch-control.png" width="30%" />
-  <img src="CAMINHO/gasolina-estados.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aldreiperalta/Ipea/main/detalhes/gasolina_variacao.png" width="48%" />
+  <img src="https://raw.githubusercontent.com/aldreiperalta/Ipea/main/detalhes/gasolina_estados.png" width="48%" />
 </p>
-<p align="center"><sub>Rede de passes · Pitch control · Variação da gasolina por estado</sub></p>
+<p align="center"><sub>Variação do preço da gasolina · Gasolina por estado (<a href="https://github.com/aldreiperalta/Ipea">repositório Ipea</a>)</sub></p>
 
 ---
 
