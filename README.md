@@ -1,61 +1,102 @@
-# Olá, eu sou o Aldrei Peralta 👋
+<h1 align="center">Olá, eu sou o Aldrei Peralta 👋</h1>
 
-Estatístico pela UFPA, analista de futebol e desenvolvedor R & Go.
-Fundador do [Campo Analítico](https://campoanalitico.com.br/), onde ensino e aplico análise de dados no futebol.
+<p align="center">
+  Estatístico (UFPA) e engenheiro de software em Belém, Pará.<br>
+  Transformo dados em análise, visualização e software, do futebol à segurança da informação.
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Estat%C3%ADstico-Data%20Science-blue?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Estat%C3%ADstica-UFPA-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Football%20Analytics-Campo%20Anal%C3%ADtico-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team-0A2540?style=for-the-badge" />
 </p>
 
 ---
 
-### 🔭 No que estou trabalhando
+## 🧭 Sobre mim
 
-- ⚽ **[Campo Analítico](https://campoanalitico.com.br/)**: consultoria, scouting e educação em análise de futebol
-- 📊 **[futebol-analytics-outubro-2026](https://github.com/aldreiperalta/futebol-analytics-outubro-2026)**: scripts em R de scouting, redes de passe, pitch control, similaridade de jogadores e dashboards Shiny
-- 🎮 **[cs2](https://github.com/aldreiperalta/cs2)**: análise espacial e métricas de partidas de CS2
-- 💻 **[java-for-gophers](https://github.com/aldreiperalta/java-for-gophers)**: guia prático de Java 21 para quem vem de Go e R
-
----
-
-### 🖼️ Alguns trabalhos
-
-<!-- Suba 3 imagens para o repo e troque os caminhos: rede de passes, pitch control, pizza de similaridade -->
-| Rede de passes | Pitch control | Similaridade |
-|:---:|:---:|:---:|
-| <img src="img/rede-passes.png" width="260" /> | <img src="img/pitch-control.png" width="260" /> | <img src="img/pizza-similares.png" width="260" /> |
+- ⚽ Fundador e educador da [**Campo Analítico**](https://campoanalitico.com.br/): plataforma de dados e consultoria em análise de futebol.
+- 📊 Especialista em análise de dados de futebol e CS2, com foco em visualização (R) e automação (Go).
+- 📰 Jornalismo de dados: gosto de contar histórias com gráficos claros e bonitos.
+- 🛡️ Em transição para **cibersegurança**, com foco em **Blue Team** e em busca de estágio na área.
 
 ---
 
-### 🛠️ Ferramentas
+## 🗂️ Portfólio
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=r,go,java,spring,py,git&theme=dark" />
+| Projeto | O que é | Stack |
+|:--|:--|:--|
+| [**Campo Analítico**](https://campoanalitico.com.br/) | Plataforma de dados e consultoria em análise de futebol: scouting, relatórios e visualizações. | R, Go |
+| [**cs2**](https://github.com/aldreiperalta/cs2) | Análises de partidas de CS2: mapeamento espacial de ações e métricas para medir desempenho e corrigir erros. | R |
+| [**Ipea**](https://github.com/aldreiperalta/Ipea) | Visualização e análise de dados do Ipea (ex.: preços da gasolina por estado), inspirado no #30DayChartChallenge. | R |
+| [**java-for-gophers**](https://github.com/aldreiperalta/java-for-gophers) | Guia prático de Java 21 para quem vem de Go e R: do core ao Spring Boot e Project Loom. | Java |
+| [**snyk**](https://github.com/aldreiperalta/snyk) | Curso de segurança para desenvolvedores. | AppSec |
+| [**aldrei-portfolio**](https://github.com/aldreiperalta/aldrei-portfolio) | Site de portfólio pessoal. | HTML |
+
+### 📈 Visualizações em destaque
+
+<!-- Troque pelos caminhos reais das suas imagens (ex.: as de passes, pitch control, gasolina) -->
+<p align="center">
+  <img src="CAMINHO/rede-de-passes.png" width="30%" />
+  <img src="CAMINHO/pitch-control.png" width="30%" />
+  <img src="CAMINHO/gasolina-estados.png" width="30%" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/StatsBomb-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Shiny-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhoScored-0B6E4F?style=for-the-badge" />
-</p>
+<p align="center"><sub>Rede de passes · Pitch control · Variação da gasolina por estado</sub></p>
 
 ---
 
-### 🎓 Formação
+## 🛠️ Tech stack
 
-Estatística, UFPA · foco em regressão, inferência bayesiana e machine learning
+**Linguagens e backend**
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Dados e visualização**
+
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![StatsBomb](https://img.shields.io/badge/StatsBomb-FF6F00?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 📫 Contato
+## 🛡️ Cibersegurança
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aldreiperalta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contato@campoanalitico.com.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/Aldreiperalta"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/campoanalitico360"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+Estou me formando pela **Cisco Networking Academy** e construindo uma base prática em defesa (Blue Team).
+
+- Fundamentos de Cibersegurança e Introdução à Cibersegurança
+- Segurança de Rede e Segurança de Endpoint
+- CyberOps Associate
+- Introdução ao Splunk
+- Hacker Ético
+
+> 🎯 **Objetivo atual:** vaga de estágio em Blue Team (SOC, monitoramento e resposta a incidentes).
 
 ---
-*⚡ Acredito que a estética de um gráfico é tão importante quanto a precisão do seu p-valor.*
+
+## 🎓 Formação
+
+**Bacharelado em Estatística, UFPA (2015–2019)**
+
+| Período | Disciplinas foco | CH |
+|:-:|:--|:-:|
+| 1º – 4º | Probabilidade, Cálculo e Banco de Dados | 1380h |
+| 5º – 8º | Regressão, Inferência Bayesiana e ML | 1620h |
+
+---
+
+## 📫 Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldreiperalta)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aldreiperalta)
+[![Campo Analítico](https://img.shields.io/badge/Campo%20Anal%C3%ADtico-2E7D32?style=for-the-badge)](https://campoanalitico.com.br/)
+
+---
+
+<p align="center"><i>⚡ Acredito que a estética de um gráfico é tão importante quanto a precisão do seu p-valor.</i></p>
