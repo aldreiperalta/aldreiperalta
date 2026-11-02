@@ -26,11 +26,8 @@
 
 | Projeto | O que é | Stack |
 |:--|:--|:--|
-| [**Campo Analítico**](https://campoanalitico.com.br/) | Plataforma de dados e consultoria em análise de futebol: scouting, relatórios e visualizações. | R, Go |
 | [**cs2**](https://github.com/aldreiperalta/cs2) | Análises de partidas de CS2: mapeamento espacial de ações e métricas para medir desempenho e corrigir erros. | R |
 | [**Ipea**](https://github.com/aldreiperalta/Ipea) | Visualização e análise de dados do Ipea (ex.: preços da gasolina por estado), inspirado no #30DayChartChallenge. | R |
-| [**java-for-gophers**](https://github.com/aldreiperalta/java-for-gophers) | Guia prático de Java 21 para quem vem de Go e R: do core ao Spring Boot e Project Loom. | Java |
-| [**snyk**](https://github.com/aldreiperalta/snyk) | Curso de segurança para desenvolvedores. | AppSec |
 | [**aldrei-portfolio**](https://github.com/aldreiperalta/aldrei-portfolio) | Site de portfólio pessoal. | HTML |
 
 ### 📈 Visualizações em destaque
