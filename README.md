@@ -15,7 +15,7 @@
 
 ## 🧭 Sobre mim
 
-- ⚽ Fundador e educador da [**Campo Analítico**](https://campoanalitico.com.br/): plataforma de dados e consultoria em análise de futebol.
+- ⚽ Fundador e educador da [**Campo Analítico**](https://www.instagram.com/campoanalitico360/): plataforma de dados e consultoria em análise de futebol.
 - 📊 Especialista em análise de dados de futebol e CS2, com foco em visualização (R) e automação (Go).
 - 📰 Jornalismo de dados: gosto de contar histórias com gráficos claros e bonitos.
 - 🛡️ Em transição para **cibersegurança**, com foco em **Blue Team** e em busca de estágio na área.
